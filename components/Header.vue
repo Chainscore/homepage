@@ -4,7 +4,6 @@
       color="white"
       dense
       light
-      elevation="8"
     >
 
       <router-link to="/" >

@@ -10,8 +10,15 @@
       app
     >
       <span>&copy; {{ new Date().getFullYear() }}</span>
-<v-spacer></v-spacer>
-      <div>hello@chainscore.finance</div>
+      <v-spacer></v-spacer>
+      <div>
+        <a 
+        class="white--text text-decoration-none" 
+        target="_blank" 
+        href="mailto:hello@chainscore.finance">
+          hello@chainscore.finance
+        </a>
+      </div>
     </v-footer>
   </v-app>
 </template>

@@ -13,10 +13,10 @@
           For DeFi 2.0
         </div>
         <div class="mb-5 text-body-1 black--text">
-          Increase trust and reputation in DeFi transactions by using credit
-          scores to evaluate user's eligibility. <br/>Verifiable score calculated on
-          a decentralized network on nodes supporting data from multiple chains.
-          Based on user's financial data such as payment history, credit
+          Bring trust and reputation in your DeFi app by using credit
+          scores to evaluate user's eligibility. <br/>Verifiable credit score is calculated on
+          a decentralized network on nodes supporting data from multiple chains, based on user's 
+          on-chain financial data such as payment history, credit
           utilisation ratio, age of credit, and much more.
         </div>
         <v-btn class="mt-5 mr-3" rounded x-large 
@@ -27,11 +27,11 @@
         >
       </v-sheet>
 
-      <v-img src="credit-score.png"></v-img>
+      <v-img src="credit-score.png" max-width="50%"></v-img>
     </v-row>
 
 <div class="mt-15">
-    <div class="text-h4 pt-15 mb-5 black--text">Supported by</div>
+    <div class="text-h5 mb-5 black--text">Supported by</div>
     <div class="d-md-flex">
       <img class="logo" src="logo_nm.png"/>
       <img class="logo" src="https://assets.website-files.com/5ea98076e2f684f39f95888f/5ea98076e2f684b2239588a6_logo%20hoover.svg"/>
